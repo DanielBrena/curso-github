@@ -1,1 +1,2 @@
-Documento del texto_4.txt de la carpeta tres 
+
+Soy un comentario del archivo texto_4.txt de la carpeta curso-git-hub
