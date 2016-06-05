@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+soy el segundo comentario
+=======
 Soy el comentario 2
+>>>>>>> efa85f22ba6f23d07f4d7ed220d76e8fe910e299
